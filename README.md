@@ -78,6 +78,7 @@ A modern real estate platform that allows users to explore premium villas and pr
 * LinkedIn: https://www.linkedin.com/in/mani-teja-patel-jarathi
 * LeetCode: https://leetcode.com/u/maniteja66/
 * GeeksforGeeks: https://www.geeksforgeeks.org/profile/jmaniteji96a
+* Portfolio: https://portfolio-mani00.vercel.app/
 
 ---
 
@@ -94,6 +95,8 @@ A modern real estate platform that allows users to explore premium villas and pr
 ## 📫 Connect With Me
 
 Feel free to connect with me for collaboration, learning opportunities, internships, and software development discussions.
+
+🌐 Portfolio: https://portfolio-mani00.vercel.app/
 
 ⭐ Explore my repositories and don't forget to star the projects you like!
 
